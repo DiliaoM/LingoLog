@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+<img width="756" height="853" alt="Screenshot 2025-11-19 at 20 44 00" src="https://github.com/user-attachments/assets/2755d77b-56dd-46cd-882c-09a97f581b38" />
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/12I5aCmX941MZH1xIWz_uOMEKPS8JPyIT
